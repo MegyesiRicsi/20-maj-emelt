@@ -1,0 +1,7 @@
+Z:\emelt\20 maj emelt\4_Meteorologiai_jelentes\metjelentes\metjelentes\bin\Debug\metjelentes.exe.config
+Z:\emelt\20 maj emelt\4_Meteorologiai_jelentes\metjelentes\metjelentes\bin\Debug\metjelentes.exe
+Z:\emelt\20 maj emelt\4_Meteorologiai_jelentes\metjelentes\metjelentes\bin\Debug\metjelentes.pdb
+Z:\emelt\20 maj emelt\4_Meteorologiai_jelentes\metjelentes\metjelentes\obj\Debug\metjelentes.csprojAssemblyReference.cache
+Z:\emelt\20 maj emelt\4_Meteorologiai_jelentes\metjelentes\metjelentes\obj\Debug\metjelentes.csproj.CoreCompileInputs.cache
+Z:\emelt\20 maj emelt\4_Meteorologiai_jelentes\metjelentes\metjelentes\obj\Debug\metjelentes.exe
+Z:\emelt\20 maj emelt\4_Meteorologiai_jelentes\metjelentes\metjelentes\obj\Debug\metjelentes.pdb
