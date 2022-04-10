@@ -1,0 +1,7 @@
+W:\GitHub\20-maj-emelt\metjelentes_home\bin\Debug\metjelentes_home.exe.config
+W:\GitHub\20-maj-emelt\metjelentes_home\bin\Debug\metjelentes_home.exe
+W:\GitHub\20-maj-emelt\metjelentes_home\bin\Debug\metjelentes_home.pdb
+W:\GitHub\20-maj-emelt\metjelentes_home\obj\Debug\metjelentes_home.csprojAssemblyReference.cache
+W:\GitHub\20-maj-emelt\metjelentes_home\obj\Debug\metjelentes_home.csproj.CoreCompileInputs.cache
+W:\GitHub\20-maj-emelt\metjelentes_home\obj\Debug\metjelentes_home.exe
+W:\GitHub\20-maj-emelt\metjelentes_home\obj\Debug\metjelentes_home.pdb
